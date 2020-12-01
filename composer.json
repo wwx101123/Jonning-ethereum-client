@@ -1,5 +1,5 @@
 {
-    "name": "jonning/ethereum-client",
+    "name": "aiwozhe/ethereum-client",
     "description": "ethereum rpc client, offline sign, php",
     "license": "MIT",
     "require": {
